@@ -25,6 +25,6 @@ https://cyberskyline.com/world/69690a38f845cf0a7e6d8b8a/report/69690a38f845cf0a7
 In recent years, I have begun building and applying knowledge by developing cybersecurity challenges and workshops, specifically focusing on overlooked and sensitive cybersecurity domains within Critical Infrastructure. Challenges that I have personally developed include:
 - Scavenger Hack 2024 - Modbus protocol C2 Challenge
 - Scavenger Hack 2024 - Hacktopia HMI Challenge
-- DEFCON 32 ICS Village - Hacktopia HMI Challenge
-- Hackers N Hops May 2025 - IoT Programming Workshop
-- DEFCON 33 ICS Village - H2Owned Threat Hunting Challenge
+- DEFCON 32 ICS Village - [Hacktopia HMI Challenge](https://www.linkedin.com/posts/hacktheplanet-defcon32-share-7227502480601800704-rqHn?utm_source=share&utm_medium=member_desktop&rcm=ACoAAB1DdpQBFqBLz4Btuk4GMS_iV01kylwrmsg)
+- Hackers N Hops March 2025 - [IoT Programming Workshop](https://www.linkedin.com/events/7302099873019961345)
+- DEFCON 33 ICS Village - [H2Owned Threat Hunting Challenge](https://www.linkedin.com/posts/icsvillage_ics-otsecurity-cyberthreathunting-activity-7356820975167963136-M8cF)
