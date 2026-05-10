@@ -4,7 +4,7 @@
 I am a Senior Threat Hunter focused on countering advanced adversaries through intelligence-driven threat hunting across diverse network environments. I posses a strong understanding of attacker TTPs and how to utilize SIEMs, EDRs, and modular tooling to identify anomalous and malicious behaviors. I am tenacious & passionate about imposing costs against threat actors while protecting the integrity of critical information systems.
 
 ## Cybersecurity Education
-I hold a core value to always be learning and developing myself, and that applies as well to increasing my knowledge within various cybersecurity domains. However, I firmly believe that acquiring knowledge is not enough, and for knowledge to be truly valuable it needs to be applied. Outside of on-the-job application, I believe that building and/or playing other developer's challenges is the best way to continously develop and apply knowledge within the cybersecurity domains.
+I hold a core value of always learning and developing myself, and that applies to increasing my knowledge across various cybersecurity domains as well. However, I firmly believe that acquiring knowledge is not enough, and that for knowledge to be truly valuable, it needs to be applied. Outside of on-the-job application, I believe that building and/or playing other developers’ challenges is the best way to continuously develop and apply knowledge within cybersecurity domains.
 
 ### Applying knowledge with CTFs
 Over the years (especially during COVID lockdowns) I have developed critical skills from CTFs, with my preference being challenges that bring a focus to Blue Team skills. Games that I have played include:
@@ -22,7 +22,7 @@ https://cyberskyline.com/world/69690a38f845cf0a7e6d8b87/report/69690a38f845cf0a7
 https://cyberskyline.com/world/69690a38f845cf0a7e6d8b8a/report/69690a38f845cf0a7e6d8bae
 
 ### Applying knowledge with challege development
-In more recent years, I have started to build and apply knowledge by developing cybersecurity challenges and workshops, specifically with a focus in overlooked and sensitive cybersecurity domains of Critical Infrastructure. Challenges that I have personally developed include:
+In recent years, I have begun building and applying knowledge by developing cybersecurity challenges and workshops, specifically focusing on overlooked and sensitive cybersecurity domains within Critical Infrastructure. Challenges that I have personally developed include:
 - Scavenger Hack 2024 - Modbus protocol C2 Challenge
 - Scavenger Hack 2024 - Hacktopia HMI Challenge
 - DEFCON 32 ICS Village - Hacktopia HMI Challenge
